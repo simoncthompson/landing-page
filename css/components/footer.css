@@ -1,0 +1,23 @@
+.footer {
+  width: 100%;
+  height: 250px;
+  background-color: #373F51;
+  padding: 30px;
+}
+.footer .icons {
+  display: flex;
+  max-width: 300px;
+  justify-content: space-around;
+  margin: auto;
+}
+.footer .icons a i {
+  font-size: 40px;
+  color: #FCEFEF;
+}
+.footer h3, .footer p {
+  margin: auto;
+  width: 30%;
+  color: #FCEFEF;
+  text-align: center;
+  line-height: 70px;
+}
